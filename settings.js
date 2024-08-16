@@ -39,31 +39,31 @@ const fs = require('fs');
 const chalk = require('chalk');
 
 //owmner v card
-global.ytname = "YT: S4 SALMAN YT" //ur yt chanel name
-global.socialm = "GitHub: salmanytofficial" //ur github or insta name
-global.location = "Pakistan, Lahore, Sabzazar" //ur location
+global.ytname = "YT: නැ 😒" //ur yt chanel name
+global.socialm = "GitHub: නැ 😒" //ur github or insta name
+global.location = "Matara ,Sri lanka" //ur location
 
 //new
-global.botname = 'XLICON-V4-MD' //ur bot name
-global.ownernumber = ['923184070915'] //ur owner number, dont add more than one
-global.ownername = '𝙎𝙖𝙡𝙢𝙖𝙣 𝘼𝙝𝙢𝙖𝙙' //ur owner name
-global.websitex = "https://youtu.com/@s4salmanyt"
-global.wagc = "https://whatsapp.com/channel/0029VaINgEZK0IBaK1nDtE3f"
+global.botname = 'Panda🐼' //ur bot name
+global.ownernumber = ['94782543893'] //ur owner number, dont add more than one
+global.ownername = 'Hashan' //ur owner name
+global.websitex = "https://wa.me/qr/P6WADRJOKAFUK1"
+global.wagc = "https://wa.me/qr/P6WADRJOKAFUK1"
 global.themeemoji = '⛩'
-global.wm = "Xlicon Bot Inc."
-global.botscript = 'https://github.com/salmanytofficial/XLICON-V4-MD' //script link
-global.packname = "𝘼𝙃𝙃𝙈𝙄 𝙆𝙐𝙉"
-global.author = "MΛDΣ BY 𝙎𝘼𝙇𝙈𝘼𝙉 𝘼𝙃𝙈𝘼𝘿"
-global.creator = "923184070915@s.whatsapp.net"
+global.wm = "Hashan."
+global.botscript = 'https://wa.me/qr/P6WADRJOKAFUK1' //script link
+global.packname = "Panda🐼"
+global.author = "MΛDΣ BY Hashan"
+global.creator = "94782543893@s.whatsapp.net"
 global.xprefix = ','
-global.premium = ["923184070915"] // Premium User
+global.premium = ["94782543893"] // Premium User
 
 //bot sett
 global.typemenu = 'v12' // menu type 'v1' => 'v12'
 global.typereply = 'v4' // reply type 'v1' => 'v4'
 global.autoblocknumber = '212' //set autoblock country code
-global.antiforeignnumber = '91' //set anti foreign number country code
-global.antidelete = false //set anti foreign number country code
+global.antiforeignnumber = '94' //set anti foreign number country code
+global.antidelete = true //set anti foreign number country code
 
 global.listv = ['•','●','■','✿','▲','➩','➢','➣','➤','✦','✧','△','❀','○','□','♤','♡','◇','♧','々','〆']
 global.tempatDB = 'database.json'
@@ -81,9 +81,9 @@ global.uang = {
 }
 
 global.mess = {
-	error: 'Error!',
+	error: 'බෑ😕!',
 	nsfw: 'Nsfw is disabled in this group, Please tell the admin to enable',
-	done: 'Done'
+	done: 'හරේ 😗👍'
 }
 
 global.bot = {
